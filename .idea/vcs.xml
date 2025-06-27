@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Stage_2/JUnit_exercise1&amp;3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Stage_2/Mockito_exercise1" vcs="Git" />
   </component>
 </project>
