@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 <message>Hello from master branch</message>
 <update>Master update content</update>
+=======
+<message>Hello from GitWork branch</message>
+<update>Branch update content</update>
+>>>>>>> GitWork
